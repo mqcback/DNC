@@ -139,8 +139,7 @@ Goodreads/
 ```text
 pipeline/
   README.md                         # Project documentation
-  requirement.txt                   # Python dependencies, kept for compatibility
-  requirements.txt                  # Standard pip dependency file
+  requirements.txt                  # Python dependencies and dataset sources
   generate_embeddings.py            # Single-process embedding generation and shard merging
   run_parallel_embeddings.py        # Parallel embedding generation over manifest ranges
   generate_training_data.py         # Bidirectional retrieval mining and adaptive curriculum
