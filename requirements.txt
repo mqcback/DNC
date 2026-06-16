@@ -1,0 +1,15 @@
+torch
+transformers
+accelerate
+peft
+pandas
+numpy
+pillow
+tqdm
+protobuf
+sentencepiece
+
+# Dataset sources:
+# Steam: https://www.kaggle.com/datasets/artermiloff/steam-games-dataset
+# Letterboxd: https://www.kaggle.com/datasets/gsimonx37/letterboxd
+# Goodreads: https://cseweb.ucsd.edu/~jmcauley/datasets/goodreads.html
